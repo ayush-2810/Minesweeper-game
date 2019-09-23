@@ -4,3 +4,5 @@ This is a minesweeper game which is a single-player puzzle computer game. The ob
 containing hidden "mines" or bombs without **detonating** any of them.
 
 This is game is made with the help of **SFML** library of cpp.
+
+#include <SFML/Graphics.hpp> - Library
